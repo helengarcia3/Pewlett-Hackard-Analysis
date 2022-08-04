@@ -27,21 +27,21 @@ We created this ERD for the 6 CSVs that were provided. As seen below, most of th
 - This query show the employees who were born between January 1, 1965 and December 31, 1965 and are eligilbe to be mentors.
 - There are a total of 1,549 employees eligible for the employee mentorship program.
 - Here are the titles and the number of mentors available by title (Assistant Engineer: 58, Engineer: 397, Senior Engineer: 293, Senior Staff: 415, Staff:	309, Technique Leader: 77)
--
+- There are no managers available for the mentor program but there are a couple of managers who will be retiring soon.
 
 
-Summary:
+## Summary:
 
 The summary addresses the two questions and contains two additional queries or tables that may provide more insight. 
 Summary: Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
 
-How many roles will need to be filled as the "silver tsunami" begins to make an impact?
-There will be about 41,380 employees who will be retiring. There are 7 positions 
+### How many roles will need to be filled as the "silver tsunami" begins to make an impact?
+There will be about 41,380 employees who will be retiring. There are 7 positions that will have employees retiing soon. 
 
 <img width="98" alt="Emp retiring" src="https://user-images.githubusercontent.com/107590196/182750887-86780946-219e-48c2-bde9-da49b0bff676.png">
 
 
 
-Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+### Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 
 There are only 1,549 ualified, retirement-ready employees in the departments to mentor the next generation. There are 41,380 employees who will be retiring. This means there are about 26 people retiring for every 1 person that can be a mentor. 
